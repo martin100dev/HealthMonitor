@@ -1,26 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\HealthMonitor\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\source\\repos\\healthmonitor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\documents\\hacktues\\healthmonitor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\source\\repos\\healthmonitor\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\source\\repos\\healthmonitor\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\source\\repos\\healthmonitor\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\documents\\hacktues\\healthmonitor\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\source\\repos\\healthmonitor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\documents\\hacktues\\healthmonitor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\documents\\hacktues\\healthmonitor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\documents\\hacktues\\healthmonitor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\documents\\hacktues\\healthmonitor\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\documents\\hacktues\\healthmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\documents\\hacktues\\healthmonitor\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|c:\\users\\hp\\documents\\hacktues\\healthmonitor\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC3EE98-98D3-4773-A24B-6F5627958C61}|HealthMonitor.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +46,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:49:00.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:42:59.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HealthMonitor\\Pages\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\HealthMonitor\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -47,13 +89,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HealthMonitor\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\HealthMonitor\\Pages\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\Index.cshtml*",
               "RelativeToolTip": "Pages\\Index.cshtml*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-20T11:24:23.832Z",
               "EditorCaption": ""
@@ -61,23 +103,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HealthMonitor\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\HealthMonitor\\Pages\\Error.cshtml",
-              "RelativeToolTip": "Pages\\Error.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T11:24:01.521Z",
+              "WhenOpened": "2025-03-20T11:23:47.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HealthMonitor\\Pages\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\HealthMonitor\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\_ViewStart.cshtml",
               "RelativeToolTip": "Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -86,15 +128,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HealthMonitor\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\HealthMonitor\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T11:23:47.721Z",
+              "WhenOpened": "2025-03-20T13:44:21.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T13:44:23.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Hacktues\\HealthMonitor\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T11:24:01.521Z",
               "EditorCaption": ""
             }
           ]
